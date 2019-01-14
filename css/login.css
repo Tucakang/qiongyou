@@ -1,0 +1,213 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.login-container{
+	width: 100%;
+    height: 765px;
+	background: url(../img/web_login_bg.jpg)no-repeat;
+	background-size: 100%;
+	overflow: hidden;
+}
+.login-logo{
+	margin: 65px auto ;
+	width: 380px;
+	height: 46px;
+	position: relative;
+}
+.login-logo img{
+	position: absolute;
+	top: 0px;
+	left: 102.75px;
+	width: 126.5px;
+	height: 46px;
+}
+#login-denglu{
+	position: absolute;
+	top: 10px;
+	left: 229px;
+	font-size: 24px;
+	color: white;
+}
+.login-section{
+	width: 380px;
+	height: 436px;
+	background: white;
+	margin: -20px auto;
+	overflow:hidden;
+}
+.login-box2{
+	position: relative;
+	width: 380px;
+	height: 60px;
+}
+.login-box{
+	position: absolute;
+	top: -20px;
+	width: 165px;
+	height: 60px;
+	margin-left: 25px;
+	margin-top: 20px;
+	text-align: center;
+	line-height: 60px;
+	border-bottom: 3px solid #10b041;
+	color: #10b041;
+}
+.login-box1{
+	position: absolute;
+	top: 0px;
+	width: 165px;
+	height: 60px;
+	margin-left: 190px;
+	
+	text-align: center;
+	line-height: 60px;
+	border-bottom: 1px solid gainsboro;
+}
+.q-login-tip{
+	margin: 20px 25px;
+	color: gray;
+}
+.q-login-tip a{
+	text-decoration: none;
+	color: green;
+}
+.login-input{
+	margin: 0px 25px;
+}
+.login-input input{
+	width: 330px;
+	height: 40px;
+}
+#input input-error2{
+	margin-top: 100px;
+}
+.login-tip{
+	width: 100%;
+	margin:5px 0px;
+}
+.login-tip a{
+	margin-left: 295px;
+	text-decoration: none;
+	color: gray;
+}
+.q-login-form-control{
+	width: 100%;
+	margin: 0px 25px;
+}
+#q-login-form-c1ontrol1{
+	width: 334px;
+	height: 36px;
+	background: #3f9f5f;
+	border: none;
+	font-size: 16px;
+	color: white;
+}
+.q-login-auth{
+	margin: 0px 25px;
+	width: 334px;
+	height: 90px;
+}
+.q-login-auth li{
+	margin-top: 30px;
+	margin-left: 2px;
+	list-style: none;
+	float: left;
+}
+.q-login-auth li i{
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	font-size: 40px;
+	margin: 0px 20px;
+	color: gainsboro;
+}
+#tb1:hover{
+	color: deepskyblue;
+}
+#tb2:hover{
+	color: red;
+}
+#tb3:hover{
+	color: orangered;
+}
+#tb4:hover{
+	color: green;
+}
+.q-login-bottom{
+	font-size: 14px;
+	color: #959595;
+	line-height: 40px;
+	margin: 0px 25px;
+	width: 334px;
+	height: 40px;
+}
+.q-login-bottom a{
+	text-decoration: none;
+	color: #10b041;
+}
+#fl{
+	margin-left: 70px;
+}
+.q-footer{
+	width: 100%;
+	height: 218px;
+	background: #323232;
+	overflow: hidden;
+}
+#pc_login_bottom{
+	width: 100%;
+	height: 161px;
+	margin: 28px 0;
+}
+.top_wrap{
+	width: 980px;
+	height: 95px;
+	margin: 0 auto;
+}
+.top_left{
+	font-size: 12px;
+	width: 700px;
+	height: 100%;
+}
+.row{
+	width: 140px;
+	height: 100%;
+	float: left;
+}
+.title{
+	font-weight: 700;
+    color: #c2c2c2;
+    padding-bottom: 7px;
+}
+.row a{
+	text-decoration: none;
+	color: #959595;
+}
+.top_right{
+	background: url(//fes.qyerstatic.com/fe_ssr_passport/static/headfoot2.99dfed4c.png) no-repeat;
+    width: 135px;
+    height: 40px;
+    background-position: 0 -74px;
+	margin-left: 700px;
+}
+.bottom_wrap{
+	width: 980px;
+	height: 41px;	
+	margin-top: 20px;
+	font-size: 12px;
+	overflow: hidden;	
+}
+.bottom_wrap img{
+	width: 100px;
+    margin-right: 10px;
+}
+.bottom_wrap1{
+	margin-top: -35px;
+	margin-left: 110px;
+	color: #808080;
+}
+.bottom_wrap1 a{
+	text-decoration: none;
+	color: #808080;
+}
